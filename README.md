@@ -1,4 +1,4 @@
-**Solar System Animation**
+## Solar System Animation
 
 ## Membros do Grupo
 
@@ -10,7 +10,7 @@
 
 O objetivo deste projeto é criar uma representação 3D de um sistema solar animado, com planetas em órbita ao redor do sol e diferentes câmeras para visualização. Cada membro do grupo contribuiu para a visualização de pelo menos um objeto 3D, implementando movimentos e posicionamento.
 
-**Especificações/Avaliação Atendidas**
+## Especificações/Avaliação Atendidas
 
 - **Visualização de objeto 3D**: Foram criados 5 objetos - o Sol, Terra, Lua, Marte e Júpiter, cada um com suas texturas correspondentes. Além disso, pequenas esferas foram criadas para representar estrelas.
 
@@ -27,11 +27,11 @@ O objetivo deste projeto é criar uma representação 3D de um sistema solar ani
 3. A animação será renderizada em duas visualizações lado a lado.
 
 
-**Modo de Interação**
+## Modo de Interação
 
 A interação com a cena 3D é feita de forma automática através da animação. Os planetas se movem em órbita ao redor do Sol, e a câmera alterna entre a vista de cima e a vista da superfície da Terra. Não há interação direta do usuário, pois o foco é na visualização da animação.
   
-**Características Implementadas**
+## Características Implementadas
 
 - Representação 3D dos planetas Sol, Terra, Lua, Marte e Júpiter.
 - Shader personalizado para o planeta Júpiter, com cores variáveis e reflexão especular.
@@ -39,7 +39,7 @@ A interação com a cena 3D é feita de forma automática através da animação
 - Movimentos de rotação e órbita dos planetas em sincronia.
 - Uso de diferentes tipos de luzes para iluminação realista.
 
-**Descrição das Principais Características Implementadas**
+## Descrição das Principais Características Implementadas
 
 Duas câmeras foram incorporadas para oferecer diferentes perspectivas da cena:
 
