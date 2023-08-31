@@ -10,7 +10,7 @@
 
 O objetivo deste projeto é criar uma representação 3D de um sistema solar animado, com planetas em órbita ao redor do sol e diferentes câmeras para visualização. Cada membro do grupo contribuiu para a visualização de pelo menos um objeto 3D, implementando movimentos e posicionamento.
 
-## Especificações/Avaliação Atendidas
+## Especificações Atendidas
 
 - **Visualização de objeto 3D**: Foram criados 5 objetos - o Sol, Terra, Lua, Marte e Júpiter, cada um com suas texturas correspondentes. Além disso, pequenas esferas foram criadas para representar estrelas.
 
