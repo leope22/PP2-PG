@@ -1,6 +1,14 @@
 **Solar System Animation**
 
-Este projeto é uma animação do sistema solar em 3D criada usando a biblioteca Three.js. Ele permite a visualização interativa dos planetas e seus movimentos, bem como a alternância entre diferentes câmeras para obter diferentes perspectivas.
+## Membros do Grupo
+
+- Leonardo Oliveira Pedro (https://github.com/leope22)
+- Matheus de Araujo (https://github.com/matheusaraujo14)
+- Mauricio Cawanga Chilombo Kessongo (https://github.com/mauriciokessongo10)
+
+## Objetivo
+
+O objetivo deste projeto é criar uma representação 3D de um sistema solar animado, com planetas em órbita ao redor do sol e diferentes câmeras para visualização. Cada membro do grupo contribuiu para a visualização de pelo menos um objeto 3D, implementando movimentos e posicionamento.
 
 **Especificações/Avaliação Atendidas**
 
@@ -12,22 +20,24 @@ Este projeto é uma animação do sistema solar em 3D criada usando a biblioteca
 
 - **Movimento simples de pelo menos um objeto**: Os planetas estão em movimento ao redor do objeto central, o Sol além disso, esses planetas estão girando em torno de si mesmos.
 
-**Pré-requisitos**
+## Instruções de Execução
 
-- Navegador da web moderno com suporte a WebGL.
-- Arquivos de textura para os planetas (sol.jpg, terra.jpg, lua.jpg, marte.jpg) devem estar no mesmo diretório do arquivo HTML.
+1. Clone este repositório para sua máquina local.
+2. Abra o arquivo `index.html` em um navegador compatível.
+3. A animação será renderizada em duas visualizações lado a lado.
+
 
 **Modo de Interação**
 
-- Ao abrir a animação, você será apresenteado a uma representação em 3D do sistema solar.
-- A animação inclui a rotação da Terra em torno do Sol, a rotação da Lua em torno da Terra e a rotação de Marte e Júpiter.
+A interação com a cena 3D é feita de forma automática através da animação. Os planetas se movem em órbita ao redor do Sol, e a câmera alterna entre a vista de cima e a vista da superfície da Terra. Não há interação direta do usuário, pois o foco é na visualização da animação.
   
 **Características Implementadas**
 
-- Representações 3D detalhadas de Sol, Terra, Lua, Marte e Júpiter.
-- Aplicação de um shader personalizado que gera pontos brilhantes no cenário.
-- Configuração de duas câmeras para oferecer diferentes perspectivas.
-- Movimento realista dos planetas, simulando rotações.
+- Representação 3D dos planetas Sol, Terra, Lua, Marte e Júpiter.
+- Shader personalizado para o planeta Júpiter, com cores variáveis e reflexão especular.
+- Duas câmeras com posições e ângulos diferentes para visualização.
+- Movimentos de rotação e órbita dos planetas em sincronia.
+- Uso de diferentes tipos de luzes para iluminação realista.
 
 **Descrição das Principais Características Implementadas**
 
