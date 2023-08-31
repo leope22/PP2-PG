@@ -19,10 +19,9 @@ Este projeto é uma animação do sistema solar em 3D criada usando a biblioteca
 
 **Modo de Interação**
 
-- Ao abrir a animação, você será presenteado com uma representação em 3D do sistema solar.
+- Ao abrir a animação, você será apresenteado a uma representação em 3D do sistema solar.
 - A animação inclui a rotação da Terra em torno do Sol, a rotação da Lua em torno da Terra e a rotação de Marte e Júpiter.
-- Atualmente, não há uma forma direta de interagir com a cena.
-
+- 
 **Características Implementadas**
 
 - Representações 3D detalhadas de Sol, Terra, Lua, Marte e Júpiter.
