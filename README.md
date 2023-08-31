@@ -10,7 +10,7 @@ Este projeto é uma animação do sistema solar em 3D criada usando a biblioteca
 
 - **Definição de pelo menos duas câmeras**: Duas câmeras foram definidas. A primeira tem foco no Sol, enquanto a segunda acompanha o movimento da Terra.
 
-- **Movimento simples de pelo menos um objeto**: Os planetas estão em movimento ao redor do objeto central, o Sol. Além disso, esses planetas estão girando em torno de si mesmos.
+- **Movimento simples de pelo menos um objeto**: Os planetas estão em movimento ao redor do objeto central, o Sol além disso, esses planetas estão girando em torno de si mesmos.
 
 **Pré-requisitos**
 
