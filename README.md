@@ -56,5 +56,9 @@ Shader Personalizado para Efeitos Visuais:
 - Um shader personalizado é aplicado a pontos brilhantes na cena, gerando efeitos visuais para as estrelas ao fundo.
 - O shader utiliza cores distintas com base nas coordenadas dos pontos, contribuindo para a aparência vibrante e atraente da animação. Este shader em particular foi aplicado a Júpiter.
  
+## Créditos
+
+Este projeto foi desenvolvido como parte do curso de Processamento Grafico da Universidade Federal de São Carlos (Ufscar-Sorocaba).
+
 
 
