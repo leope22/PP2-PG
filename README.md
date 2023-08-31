@@ -5,8 +5,11 @@ Este projeto é uma animação do sistema solar em 3D criada usando a biblioteca
 **Especificações/Avaliação Atendidas**
 
  **Visualização de objeto 3D** : foram criados 5 objetos, o Sol, Terra, Lua, Marte e Júpiter, cada um com suas texturas correspondentes. Além disso foram criadas pequenas esferas para representar estrelas do proprio universo.
+
  **Utilização de um shader próprio em um dos objetos** : Foram criados 2 shader, um para para jupiter, que altera sua cor conforme o tempo e induz mostra um reflexo e tambem um para as esferas, dando a elas uma cor(branco,azul ou dourado) e tambem um tamanho fixo.
+
  **Definição de pelo menos duas câmera** :Foram definidas duas cameras, a primeira com foco no sol e a segunda com foco no terra acompanhando seu movimento.
+
  **Movimento simples de pelo menos um objeto** : Os Planetas estao se movimento em volta do objeto central, O sol, estes objetos tambem estão se movendo em torno de si mesmo.
 
  **Pré-requisitos**
